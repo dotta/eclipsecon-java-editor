@@ -15,8 +15,8 @@
          point="org.eclipse.ui.perspectives">
       <perspective
             name="Perspective"
-            class="editor.java.Perspective"
-            id="editor.java.perspective">
+            class="de.vogella.rcp.editor.example.Perspective"
+            id="de.vogella.rcp.editor.example.perspective">
       </perspective>
    </extension>
    <extension
